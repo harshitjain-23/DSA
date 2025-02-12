@@ -1,5 +1,5 @@
 # DSA
-Here I will upload all code related to DSA in python
+Here  you will get all code related to DSA in python
 
 
 ### Topics Covered in DSA

@@ -1,0 +1,5 @@
+def print_hello():
+  print("Hello!")
+
+%autocall 1
+print_hello
